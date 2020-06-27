@@ -1,0 +1,39 @@
+h2{
+  margin-right:13%;
+}
+.ul {
+    list-style-type: none;
+    margin-left: 20%;
+    padding: 0;
+    overflow: hidden;
+    background: 	#6495ED ;
+    width: 529px;
+  }
+  
+  .ul li {
+    float: left;
+  }
+  
+    .ul li a {
+    display: block;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    margin:0% 0% ;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color:#5bc0de;
+    
+    margin: 0% 0%;
+  
+  }
+
+  .active {
+    background-color: #4CAF50;
+  }
+
+   
